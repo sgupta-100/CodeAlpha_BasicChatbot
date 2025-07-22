@@ -1,0 +1,21 @@
+PS D:\Coding\Python> python -u "d:\Coding\Python\Project\chatbot.py"
+You are about to talk to the chatbot!! Only ask these simple questions -
+1. hello
+2. how are you?
+3. what are your features?
+4. are you strong and intelligent?
+5. Say bye if you want to exit the bot
+
+Hello! I am a simple chatbot. You can talk to me. Type 'bye' to exit.
+
+You: hello
+Chatbot: Hi!
+You: how are you?
+Chatbot: I'm fine, thanks!
+You: what are your features?
+Chatbot: I can talk to you with simple commands.
+You: are you strong and intelligent?
+Chatbot: I am a chatbot, I cannot say myself strong but I am intelligent
+You: bye
+Chatbot: Goodbye!
+PS D:\Coding\Python> 
